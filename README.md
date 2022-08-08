@@ -5,4 +5,4 @@ Physical activity Fitness prediction using IBM Watson
 Demo Video Link = https://youtu.be/3-PgBQA5siU
 
 
-for project information view project pdf and document
+for project information view project document
